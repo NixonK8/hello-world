@@ -1,2 +1,3 @@
 # hello-world
-New repo
+
+Hello, my name is Nixon Kwok.
